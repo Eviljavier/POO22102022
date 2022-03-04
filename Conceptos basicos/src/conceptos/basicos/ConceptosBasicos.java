@@ -4,6 +4,8 @@
  */
 package conceptos.basicos;
 
+import ico.fes.lenovo.Procesador;
+
 /**
  *
  * @author ernst
@@ -15,6 +17,10 @@ public class ConceptosBasicos {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+       Procesador cpu=new Procesador();
+       
+        
+        
     }
     
 }
